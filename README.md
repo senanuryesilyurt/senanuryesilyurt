@@ -1,4 +1,4 @@
-## Hi, I'm Sena. Welcome to my Github profile ✨
+## Hi, I'm Sena. Welcome to my Github profile✨
 
 
 <!--
