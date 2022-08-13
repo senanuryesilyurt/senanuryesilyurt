@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Android Studio" width="26px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/1037296/images/7536204/1200px-Android_Studio_icon.svg.png" />
 
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+<img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png">
 <img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dotnet/dotnet.png" />
 
  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
