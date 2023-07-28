@@ -34,7 +34,3 @@ Here are some ideas to get you started:
      
  
 
- ### Connect with Me
-
-[![Linkedin](https://img.shields.io/badge/-SenaNurYeşilyurt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SenaNurYesilyurt/)](https://www.linkedin.com/in/SenaNurYesilyurt/) 
-[![Gmail](https://img.shields.io/badge/-yesilyurtsenanur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesilyurtsenanur@gmail.com)](mailto:yesilyurtsenanur@gmail.com)
